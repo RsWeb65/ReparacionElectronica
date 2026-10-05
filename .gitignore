@@ -25,10 +25,3 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 
-# VS Code
-.vscode/*
-!.vscode/extensions.json
-.idea/
-
-# Capturas del reporte (opcional, si no querés subirlas)
-# reporte/
