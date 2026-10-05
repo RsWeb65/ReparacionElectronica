@@ -1,1 +1,34 @@
-node_modules
+# Dependencias
+node_modules/
+
+# Nuxt
+.nuxt/
+.output/
+.data/
+.nitro/
+.cache/
+
+# Builds
+dist/
+build/
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Capturas del reporte (opcional, si no querés subirlas)
+# reporte/
